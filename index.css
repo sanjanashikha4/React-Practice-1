@@ -38,4 +38,6 @@
     flex-wrap: wrap;
     
   }
-  /* demo */
+  .filter{
+    margin: 8px;
+  }
