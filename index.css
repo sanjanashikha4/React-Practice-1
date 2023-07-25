@@ -36,5 +36,8 @@
   .res-container {
     display: flex;
     flex-wrap: wrap;
+    
   }
-  
+  .filter{
+    margin: 8px;
+  }
